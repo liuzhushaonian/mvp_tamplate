@@ -63,17 +63,3 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
-
-
-/.gradle/*
-/.idea
-/app
-/gradle
-/build.gradle
-/demo.iml
-/gradlew.bat
-/gradle.properties
-/gradlew
-/LICENSE
-/local.properties
-/settings.gradle
