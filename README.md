@@ -3,6 +3,23 @@ Android mvp tamplate
 
 Android的MVP模板
 
+## 添加依赖
+
+```
+allprojects {
+  repositories {
+    maven { url 'https://jitpack.io' }
+  }
+}
+
+```
+
+```
+dependencies {
+  implementation 'com.github.liuzhushaonian:mvp_tamplate:0.3'
+}
+```
+
 ## Activity
 需要用presenter的Activity就继承BasePresenterActivity，创建新的presenter继承BasePresenter
 
